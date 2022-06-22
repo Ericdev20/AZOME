@@ -1,0 +1,28 @@
+Nom du Projet : AZOME
+
+Groupe N°4 IG2/A
+
+Les membres du groupe :
+
+ALLADAYE Eric
+AHOMAGNON Vianney
+AHMAD Salami
+BABAYEDE Daniel
+DAKPE Amos
+HOUNOU Pamelo
+TALOGNON Morelle
+OGAYILE Roland
+
+
+TECHNOLOGIES UTILISEES :
+//en front
+
+*HTML
+*CSS
+*BOOTSTRAP
+*JQUERY
+
+//en Back
+
+*PHP
+
